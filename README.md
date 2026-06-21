@@ -349,3 +349,9 @@ We can also add:
 * Interview talking points
 
 Just say the word — we’ll continue from here.
+---
+
+## Credits
+
+This repository was mirrored from [https://github.com/Kirankumarvel/micronotes](https://github.com/Kirankumarvel/micronotes).
+All credit goes to the original authors.
